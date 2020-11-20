@@ -18,9 +18,7 @@ This application was designed for book enthusiasts in order to help them find th
 User Interface
 ========================================================
 
-```{r}
-summary(cars)
-```
+<img src="interface.png">
 
 Calculation of Average Pages per Day
 ========================================================
