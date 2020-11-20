@@ -1,0 +1,10 @@
+name: booksr
+title:
+username:
+account: thrish
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3274577
+bundleId: 3885560
+url: https://thrish.shinyapps.io/booksr/
+when: 1605890347.45191
